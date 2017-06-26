@@ -6,7 +6,7 @@ Created for an undergraduate final year independent project.
 Video: https://www.youtube.com/watch?v=vMfhnrMsfa4
 
 Screenshot of the sample project. 
-![alt text](https://dl.dropboxusercontent.com/u/15765996/images/Final%20Year%20Project/2014-05-13_04-13-58.png "")
+![alt text](Screenshot.png "")
 
 The blue line on the graph marks the current position in the song.  
 The green line shows the spectral flux.  
